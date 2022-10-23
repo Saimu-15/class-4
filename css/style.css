@@ -1,0 +1,44 @@
+#text{
+    color:aqua;
+    text-shadow: 0 0 5px #2d3033,0 0 10px #0e345a;
+    text-align: center;
+    text-decoration: underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    width: fit-content;
+    font-size: 20px;
+    background-color: #99a3ad;
+}
+
+h4{
+    color:aqua;
+    background-color:black;
+    width:fit-content;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+h5{
+    font-size: large;
+    width: fit-content;
+}
+
+p{
+    width: 80%;
+    height:fit-content;
+    font-size:large;
+    font-family: sans-serif;
+    line-height: 1.3;
+    word-spacing: 5px;
+    text-align: justify;
+    text-align-last: center;
+    text-indent: 10px;
+}
+
+a{
+    text-decoration: none;
+    font-size: medium;
+    color: rgb(110, 8, 150);
+}
